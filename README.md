@@ -16,7 +16,6 @@ Another major problem with our newspaper is it always starts with a piece of bad
 In conclusion, Taja Khobor application providing a sustainable way of distributing news to everyone. 
 </p>
 
-Note: It's an open-source project; hence anyone can use this code according to the [MIT License](https://choosealicense.com/licenses/mit/) rules & regulations.
 
 ## Packages used:
 
@@ -41,26 +40,6 @@ Note: It's an open-source project; hence anyone can use this code according to t
 // For playing videos<br>
 [video_player: ^2.2.18](https://pub.dev/packages/video_player)<br><br><br><br><br><br><br>
 
-## Installation
-
-1. Open your workspace folder in 'Command Prompt' or 'Terminal'
-2. Copy & paste this command:
-
-```
-$ git clone https://github.com/md-siam/taja_khobor.git
-```
-
-3. Open the 'taja_khobor' folder using your Android Studio or VSCode.
-4. Use this commands in your Android Studio / VSCode terminal:
-
-```
-$ flutter pub get
-$ flutter run
-```
-
-5. Enjoy!
-
-Note: To run this application on your system, you will need [git](https://git-scm.com/) and [flutter](https://docs.flutter.dev/get-started/install) environment already installed.
 
 ## Directory
 
